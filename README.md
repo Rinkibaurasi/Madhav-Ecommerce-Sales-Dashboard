@@ -22,7 +22,7 @@ This Power BI dashboard provides insights into ecommerce sales including profit,
 - DAX (for calculations)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Files
 - `.pbix` file included for Power BI
