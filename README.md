@@ -1,5 +1,4 @@
 # Madhav-Ecommerce-Sales-Dashboard
-# 📊 Madhav Ecommerce Sales Dashboard
 
 ## Overview
 This Power BI dashboard provides insights into ecommerce sales including profit, quantity, and customer behavior.
